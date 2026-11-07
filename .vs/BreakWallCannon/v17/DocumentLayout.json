@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameProject\\3D Game\\BreakWallCannon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|D:\\GameProject\\3D Game\\BreakWallCannon\\assets\\scripts\\gamemenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|d:\\gameproject\\3d game\\breakwallcannon\\assets\\scripts\\cannonammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cannonammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\FallenWallDetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\FallenWallDetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|d:\\gameproject\\3d game\\breakwallcannon\\assets\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|D:\\GameProject\\3D Game\\BreakWallCannon\\assets\\scripts\\cannonshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cannonshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|D:\\GameProject\\3D Game\\BreakWallCannon\\assets\\scripts\\selfdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selfdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|D:\\GameProject\\3D Game\\BreakWallCannon\\assets\\scripts\\cannoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C3DB3D-CCB0-2A46-0632-70493332086E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cannoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Brick.cs",
+              "DocumentMoniker": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\Brick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Brick.cs",
+              "ToolTip": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\Brick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Brick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:53:00.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FallenWallDetector.cs",
+              "DocumentMoniker": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\FallenWallDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FallenWallDetector.cs",
+              "ToolTip": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\FallenWallDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FallenWallDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:39:30.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameMenager.cs",
+              "DocumentMoniker": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\GameMenager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameMenager.cs",
+              "ToolTip": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\GameMenager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameMenager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:58:00.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CannonAmmo.cs",
+              "DocumentMoniker": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\CannonAmmo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CannonAmmo.cs",
+              "ToolTip": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\CannonAmmo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CannonAmmo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:43:48.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelfDestroy.cs",
+              "DocumentMoniker": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\SelfDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelfDestroy.cs",
+              "ToolTip": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\SelfDestroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelfDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:06:29.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CannonShooter.cs",
+              "DocumentMoniker": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\CannonShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CannonShooter.cs",
+              "ToolTip": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\CannonShooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CannonShooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:59:19.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CannonController.cs",
+              "DocumentMoniker": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\CannonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CannonController.cs",
+              "ToolTip": "D:\\GameProject\\3D Game\\BreakWallCannon\\Assets\\Scripts\\CannonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CannonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:28:50.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
